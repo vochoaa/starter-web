@@ -13,4 +13,5 @@ as stated above, the main purpose is to provide simple examples for git training
 this is a simple web project, deploymente can be on any web server or even local file system. 
 
 ## How to contribute
+example 
 
